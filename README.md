@@ -19,11 +19,11 @@ Cross-platform Support: Developed for Android but can be adapted for other platf
 
 Requirements
 
-Android 5.0 or higher (Lollipop and above)
+Android 10.0 or higher (Lollipop and above)
 
-ARM64 or ARM32 architecture (Check device specs)
+ARM64 architecture (Check device specs)
 
-At least 2GB of RAM recommended for optimal performance
+At least 8 GB of RAM recommended for optimal performance
 
 OpenGL ES 3.0 or higher support for graphics rendering
 
@@ -42,9 +42,9 @@ Installation
 
 Alternatively, you can clone this repository and build the APK manually:
 
-git clone https://github.com/yourusername/PS4-Emulator-for-Android.git
+git clone [https://github.com/yourusername/PS4-Emulator-for-Android.git
 cd PS4-Emulator-for-Android
-./gradlew build
+./gradlew build](https://apkod.com/ps4-emulator-android/)
 
 Usage
 
