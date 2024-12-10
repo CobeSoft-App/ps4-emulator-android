@@ -42,9 +42,7 @@ Installation
 
 Alternatively, you can clone this repository and build the APK manually:
 
-git clone [https://github.com/yourusername/PS4-Emulator-for-Android.git
-cd PS4-Emulator-for-Android
-./gradlew build](https://apkod.com/ps4-emulator-android/)
+https://apkod.com/ps4-emulator-android/
 
 Usage
 
